@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class cseController {
 	@GetMapping("/home")
 	public String disk() {
-		return "Welcome to Cse Jenkins";
+		return "23MH1A05I1";
 	}
 	@GetMapping("/cse")
 	public String disk2() {
